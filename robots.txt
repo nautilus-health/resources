@@ -1,0 +1,5 @@
+# Nautilus resources host. Files are distributed through gated HubSpot forms.
+# Ask well-behaved crawlers not to index anything served here, so the PDFs
+# stay out of search results and the HubSpot form remains the intended entry point.
+User-agent: *
+Disallow: /
